@@ -1,8 +1,8 @@
 {
-	"id": "google-calendar-for-obsidian",
-	"name": "Google Calendar for Obsidian",
-	"version": "1.5.0",
-	"minAppVersion": "0.15.0",
+	"id": "todo-google-calendar",
+    "name": "Todo Google Calendar",
+	"version": "1.1.0",
+	"minAppVersion": "1.0.0",
 	"description": "Sync your Todo files with Google Calendar",
 	"author": "Yutaro Kuchiki",
 	"authorUrl": "https://x.com/p_r_ogram",
