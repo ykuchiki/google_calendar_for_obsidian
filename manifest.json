@@ -1,0 +1,10 @@
+{
+	"id": "todo-to-google-calendar",
+	"name": "Todo to Google Calendar",
+	"version": "1.5.0",
+	"minAppVersion": "0.15.0",
+	"description": "Sync your Todo files with Google Calendar",
+	"author": "Yutaro Kuchiki",
+	"authorUrl": "https://x.com/p_r_ogram",
+	"isDesktopOnly": false
+}
